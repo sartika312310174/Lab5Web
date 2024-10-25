@@ -18,6 +18,11 @@
 ![image](https://github.com/user-attachments/assets/0bb0b781-dd30-4b41-9a24-517e8a275c34)
 # Jika nilai kurang dari 60 maka hasilny tidak lulus
 ![image](https://github.com/user-attachments/assets/eb052b13-ca8a-4fb0-aedc-79672a0e1418)
+![image](https://github.com/user-attachments/assets/a66bd5f9-f055-4dde-a4ed-39706d9f49e2)
 # Jika nilai lebih dari 60 maka hasilnya lulus
+![image](https://github.com/user-attachments/assets/f8ceb061-2f4a-41eb-a713-c36e9f662aa8)
+![image](https://github.com/user-attachments/assets/ea383efe-7196-48bb-a7ac-f25ff6744a81)
+# 6. Penggunaan operator switch untuk seleksi kondisi
+
 
 
