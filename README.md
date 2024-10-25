@@ -35,7 +35,20 @@
 ![image](https://github.com/user-attachments/assets/6ecdbff4-6123-49f4-85fd-79a80de45efa)
 # jika kita menginput angka 7 maka hasilnya adalah "bilangan ganjil"
 ![image](https://github.com/user-attachments/assets/b349d946-c5d2-4f7e-bc34-a977264c6984)
-# 8. 
+# 8. Membuat form input menggunakan button
+![image](https://github.com/user-attachments/assets/b8127a4d-0823-40c3-916a-28a4b2d3df95)
+# Jika kita menekan button maka akan terjadi perubahan, di bawah ini background berwarna hijau karena sudah diubah
+![image](https://github.com/user-attachments/assets/e61b7c1d-3a7f-4bc9-82ff-4e4a2fb0bdcc)
+# latar belakang kembali berubah saat menekan tombol "latar belakang putih"
+![image](https://github.com/user-attachments/assets/2dd3a1f5-0233-45ca-abec-8473f628e4f0)
+# kali ini teks yang berubah warna menjadi kuning
+![image](https://github.com/user-attachments/assets/cc7d4b6e-4a91-4317-a5ce-83956249629d)
+# terakhir text berubah menjadi warna biru
+![image](https://github.com/user-attachments/assets/67a01d2e-1ed6-46a7-b6ec-8975e29696ae)
+# ini tampilan saat diubah
+![image](https://github.com/user-attachments/assets/82073b6e-3504-4b71-806f-b6c6b5064f98)
+
+
 
 
 
