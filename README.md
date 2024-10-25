@@ -26,7 +26,8 @@
 ![image](https://github.com/user-attachments/assets/ae315934-9d3e-4da2-bca5-ef94cc37f05c)
 ![image](https://github.com/user-attachments/assets/5516784b-d347-462f-adc2-5bce1d674d4d)
 # Ketika kita menginput angka 3 maka hasil yang keluar adalah "bilangan tiga" 
-![image](https://github.com/user-attachments/assets/012a8f40-0f8d-43f6-ac9d-9be2676b0434)
+![image](https://github.com/user-attachments/assets/1bed8d6d-5679-4d9f-a295-e695bc25a501)
+
 
 
 
