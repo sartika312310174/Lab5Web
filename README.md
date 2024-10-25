@@ -51,6 +51,9 @@
 ![image](https://github.com/user-attachments/assets/03a26a6e-2894-4114-aa0a-fab96626284c)
 # hasil dari penjumlahannya
 ![image](https://github.com/user-attachments/assets/58d30751-f051-4522-bdef-dfdaf3de0a46)
+# Validasi dokumen html
+![image](https://github.com/user-attachments/assets/8c12c8a1-25e0-449a-801f-f4d0b1e63ecd)
+
 
 # PERTANYAAN DAN JAWABAN
 # 1 Buatlah script untuk melakukan validasi pada isian form.
