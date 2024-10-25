@@ -27,6 +27,9 @@
 ![image](https://github.com/user-attachments/assets/5516784b-d347-462f-adc2-5bce1d674d4d)
 # Ketika kita menginput angka 3 maka hasil yang keluar adalah "bilangan tiga" 
 ![image](https://github.com/user-attachments/assets/1bed8d6d-5679-4d9f-a295-e695bc25a501)
+# Jika kita menginput angka 9 yang tidak ada pada kondisinya maka hasilnya "bilangan lainnya"
+![image](https://github.com/user-attachments/assets/17d42e16-bd33-4cbf-8723-5f0517f2e01e)
+
 
 
 
