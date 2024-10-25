@@ -47,6 +47,13 @@
 ![image](https://github.com/user-attachments/assets/67a01d2e-1ed6-46a7-b6ec-8975e29696ae)
 # ini tampilan saat diubah
 ![image](https://github.com/user-attachments/assets/82073b6e-3504-4b71-806f-b6c6b5064f98)
+# 9. Membuat daftar menu dan menjumlahkan totalnya menggunakan function
+![image](https://github.com/user-attachments/assets/03a26a6e-2894-4114-aa0a-fab96626284c)
+# hasil dari penjumlahannya
+![image](https://github.com/user-attachments/assets/58d30751-f051-4522-bdef-dfdaf3de0a46)
+
+# PERTANYAAN DAN JAWABAN
+# 1 Buatlah script untuk melakukan validasi pada isian form.
 
 
 
