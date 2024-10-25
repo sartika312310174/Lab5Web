@@ -5,4 +5,9 @@
 ![image](https://github.com/user-attachments/assets/a64b7f3c-4dc7-4a7f-a391-a6628ac88ff9)
 # 3. Penggunaan Method pada HTML
 ![image](https://github.com/user-attachments/assets/5adf7dbc-48db-41b4-8fac-2ba1b760fa88)
+# 4. Penggunaan prompt pada HTML
+![image](https://github.com/user-attachments/assets/3c89cb9f-06fb-4707-9051-ad3d764a6d5d)
+# Ini tampilan saat menginput nama
+![image](https://github.com/user-attachments/assets/b780d0e3-3bac-434b-a713-f66c7b3fe284)
+
 
