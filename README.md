@@ -9,5 +9,7 @@
 ![image](https://github.com/user-attachments/assets/3c89cb9f-06fb-4707-9051-ad3d764a6d5d)
 # Ini tampilan saat menginput nama
 ![image](https://github.com/user-attachments/assets/b780d0e3-3bac-434b-a713-f66c7b3fe284)
+# 5. Penggunaan fungsi dan cara memanggilnya di Html menggunakan javascript
+![image](https://github.com/user-attachments/assets/0f8e127b-1d2d-4522-87d7-f7b6c698f5f8)
 
 
