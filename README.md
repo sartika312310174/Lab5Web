@@ -23,6 +23,10 @@
 ![image](https://github.com/user-attachments/assets/f8ceb061-2f4a-41eb-a713-c36e9f662aa8)
 ![image](https://github.com/user-attachments/assets/ea383efe-7196-48bb-a7ac-f25ff6744a81)
 # 6. Penggunaan operator switch untuk seleksi kondisi
+![image](https://github.com/user-attachments/assets/ae315934-9d3e-4da2-bca5-ef94cc37f05c)
+![image](https://github.com/user-attachments/assets/5516784b-d347-462f-adc2-5bce1d674d4d)
+# Ketika kita menginput angka 3 maka hasil yang keluar adalah "bilangan tiga" 
+![image](https://github.com/user-attachments/assets/012a8f40-0f8d-43f6-ac9d-9be2676b0434)
 
 
 
