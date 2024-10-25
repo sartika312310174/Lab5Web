@@ -29,8 +29,13 @@
 ![image](https://github.com/user-attachments/assets/1bed8d6d-5679-4d9f-a295-e695bc25a501)
 # Jika kita menginput angka 9 yang tidak ada pada kondisinya maka hasilnya "bilangan lainnya"
 ![image](https://github.com/user-attachments/assets/17d42e16-bd33-4cbf-8723-5f0517f2e01e)
-
-
+# 7. Membuat form input menggunakan funtion
+![image](https://github.com/user-attachments/assets/0543515c-32c4-453b-a6e6-b2d0792d938b)
+# jika kita menginput angka 2 maka hasilnya adalah "bilangan genap"
+![image](https://github.com/user-attachments/assets/6ecdbff4-6123-49f4-85fd-79a80de45efa)
+# jika kita menginput angka 7 maka hasilnya adalah "bilangan ganjil"
+![image](https://github.com/user-attachments/assets/b349d946-c5d2-4f7e-bc34-a977264c6984)
+# 8. 
 
 
 
