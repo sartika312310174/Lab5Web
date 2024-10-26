@@ -58,6 +58,10 @@
 
 # PERTANYAAN DAN JAWABAN
 # 1 Buatlah script untuk melakukan validasi pada isian form.
+# validasi form dibuat untuk memvalidasi inputan dari pengguna, contohnya ketika pengguna tidak mengisi data dengan lengkao maka pengguna harus mengisi ulang dengan data yang lengkao.
+![image](https://github.com/user-attachments/assets/84942cbf-430c-492b-b3ca-e7bc09d941a9)
+
+
 
 
 
